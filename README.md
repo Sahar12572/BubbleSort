@@ -13,7 +13,7 @@ This project implements a Bubble Sort algorithm to sort an array of strings alph
 String[] Words = {"blue", "six", "hello", "game", "unorthodox", "referee", "ask", "zebra", "run", "flex"};
 ```
 
-##Output
+## Output
 Sorted: ask blue flex game hello referee run six unorthodox zebra
 
 ## How to run
