@@ -11,10 +11,11 @@ This project implements a Bubble Sort algorithm to sort an array of strings alph
 ## Code Example
 ```java
 String[] Words = {"blue", "six", "hello", "game", "unorthodox", "referee", "ask", "zebra", "run", "flex"};
+```
 
 ##Output
 Sorted: ask blue flex game hello referee run six unorthodox zebra
-```
+
 ## How to run
 Compile: javac BubbleSort.java
 Run: java BubbleSort
