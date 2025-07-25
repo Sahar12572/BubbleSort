@@ -14,8 +14,8 @@ String[] Words = {"blue", "six", "hello", "game", "unorthodox", "referee", "ask"
 
 ##Output
 Sorted: ask blue flex game hello referee run six unorthodox zebra
-
-## How to Run
+```
+## How to run
 Compile: javac BubbleSort.java
 Run: java BubbleSort
 Author
